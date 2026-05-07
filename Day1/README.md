@@ -1,1 +1,1 @@
-# Day 1 Stack
+# Day 1 — Stack
