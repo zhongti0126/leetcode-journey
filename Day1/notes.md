@@ -15,5 +15,5 @@ Always check:
 ```python
 if not stack:
 
-
+```pythoon
 <img alt="Day1" src="https://github.com/user-attachments/assets/6ab29b17-45ca-4941-bfa4-088b59638e53" width="400"  />
