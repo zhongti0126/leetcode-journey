@@ -6,8 +6,9 @@
 |---|---|---|
 | Day 1 | Stack | Valid Parentheses, Min Stack |
 | Day 2 | Queue | Queue Basics, BFS Introduction |
-| Day 3 | Linked List| Reverse Linked List |
-| Day 4 | Binary Search| Coming soon |
+| Day 3 | Linked List | Reverse Linked List |
+| Day 4 | Binary Search | Coming soon |
+| Day 5 | Tree | Coming soon |
 ---
 
 ## 🧠 Topics
