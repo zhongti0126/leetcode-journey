@@ -16,4 +16,5 @@ Always check:
 if not stack:
 ```
 
+## NOTES
 <img width="4032" height="2268" alt="Day1" src="https://github.com/user-attachments/assets/e620a2db-a0a8-4f9e-b000-daa597cdd39f" />
