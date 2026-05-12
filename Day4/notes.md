@@ -87,5 +87,5 @@ right = mid - 1
 - O(log n)
 - Avoid infinite loop
 
-## Binary Search Example
+## NOTES
 <img width="2566" height="2159" alt="Day4" src="https://github.com/user-attachments/assets/9b7b25b9-70bd-4aff-b8b9-1d4ed377693b" />
