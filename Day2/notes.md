@@ -9,4 +9,5 @@
 - Stack = LIFO
 - Queue = FIFO
 
+## NOTES
 <img width="4032" height="2268" alt="Day2" src="https://github.com/user-attachments/assets/fb5e4284-36da-4777-a185-4bd35f9b05c6" />
