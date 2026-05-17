@@ -42,3 +42,4 @@ DFS Order:
 - max depth
 
 ## NOTES
+<img width="2312" height="3189" alt="Day5" src="https://github.com/user-attachments/assets/c75cf1cb-9b93-4cca-a6fb-dcc6f6ffe1a1" />
