@@ -9,8 +9,9 @@
 | Day 3 | Linked List | LC 206 Reverse Linked List |
 | Day 4 | Binary Search | LC 704 Binary Search |
 | Day 5 | Tree | LC 104 Maximum Depth of Binary Tree |
-| Day 6 | Graph Basics | Coming soon |
-| Day 7 | Recursion & Backtracking | Coming soon |
+| Day 6 | Graph Basics | LC 1971 Find if Path Exists in Graph |
+| Day 7 | Recursion & Backtracking | Coming Soon |
+
 ---
 
 ## 🧠 Topics
@@ -22,10 +23,13 @@
 - HashMap
 - Tree / Graph
 - Recursion
+- Backtracking
+
 ---
 
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - Python for LeetCode
-- DFS & Tree Traversal
-- Recursion & Binary Trees
+- Graph Traversal
+- BFS & DFS
+- Recursion & Backtracking
