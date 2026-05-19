@@ -1,4 +1,4 @@
-# LeetCode Journey
+# LeetCode Journey(Python)
 
 ## 📅 Progress
 
