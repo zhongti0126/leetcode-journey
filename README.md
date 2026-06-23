@@ -31,7 +31,7 @@ The goal is not only to solve problems, but also to build a stronger foundation 
 | Tree | Completed | LC 104 Maximum Depth of Binary Tree |
 | Graph Basics | Completed | LC 1971 Find if Path Exists in Graph |
 | Recursion & Backtracking | In Progress | LC 78 Subsets |
-| Heap / Priority Queue | Coming Soon | - |
+| Heap / Priority Queue | LC 215 Kth Largest Element in an Array |
 | Sliding Window | Coming Soon | - |
 | Two Pointers | Coming Soon | - |
 | Prefix Sum | Coming Soon | - |
@@ -137,7 +137,31 @@ If the target is larger, search the right half.
 - How to think about “choose” and “not choose”
 
 ---
+### Heap / Priority Queue
 
+#### LC 215 - Kth Largest Element in an Array
+
+**What I Learned**
+- How a Min Heap works
+- How to maintain only k largest elements
+- Why Heap is faster than sorting in some cases
+
+**Key Idea**
+Keep a heap of size k.
+When the heap size exceeds k, remove the smallest element.
+
+At the end:
+
+```python
+return heap[0]
+```
+
+is the kth largest element.
+
+**Time Complexity:** O(n log k)
+**Space Complexity:** O(k)
+
+---
 ## Growth Reflection
 
 At the beginning, I mainly focused on solving problems by intuition.  
