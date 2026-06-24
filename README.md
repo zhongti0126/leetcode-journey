@@ -30,10 +30,10 @@ The goal is not only to solve problems, but also to build a stronger foundation 
 | Binary Search | Completed | LC 704 Binary Search |
 | Tree | Completed | LC 104 Maximum Depth of Binary Tree |
 | Graph Basics | Completed | LC 1971 Find if Path Exists in Graph |
-| Recursion & Backtracking | In Progress | LC 78 Subsets |
-| Heap / Priority Queue | LC 215 Kth Largest Element in an Array |
-| Sliding Window | Coming Soon | - |
-| Two Pointers | Coming Soon | - |
+| Recursion & Backtracking | Completed | LC 78 Subsets |
+| Heap / Priority Queue | Completed | LC 215 Kth Largest Element in an Array |
+| Sliding Window | Completed | LC 215 Kth Largest Element in an Array |
+| Two Pointers | Coming Soon | LC 121 Best Time to Buy and Sell Stock |
 | Prefix Sum | Coming Soon | - |
 | Matrix / Grid BFS | Coming Soon | - |
 | Monotonic Stack | Coming Soon | - |
